@@ -90,3 +90,5 @@ GameSavingLoader.load().then((saving) => {
 ```
 
 ---
+
+[![Build status](https://ci.appveyor.com/api/projects/status/c82y2nh0mhdfuv8x?svg=true)](https://ci.appveyor.com/project/Turovae/async-promises)
